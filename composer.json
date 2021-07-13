@@ -1,5 +1,5 @@
 {
-  "name": "pollen-solutions/wp-divi-themechild",
+  "name": "pollen-solutions/wp-divi-theme",
   "description": "Theme enfant Divi",
   "type": "wordpress-theme",
   "keywords": [
@@ -10,13 +10,12 @@
     "child theme"
   ],
   "homepage": "https://presstify.com/pollen-solutions/wp-divi-themechild/",
-  "time": "2021-01-14",
+  "time": "2021-07-13",
   "license": "proprietary",
   "authors": [
     {
       "name": "Jordy Manner",
-      "email": "jordy@presstify.com",
-      "role": "Developper"
+      "email": "jordy@presstify.com"
     }
   ],
   "repositories": [
@@ -26,18 +25,13 @@
     },
     {
       "type": "composer",
-      "url": "https://composer.presstify.com/presstify/"
-    },
-    {
-      "type": "composer",
       "url": "https://wpackagist.org"
     }
   ],
   "require": {
-    "php": ">=7.3",
-    "composer/installers": "~1.0",
+    "php": "^7.4 || ^8.0",
     "wpackagist-plugin/classic-editor": "^1.6",
-    "wpackagist-plugin/wordpress-seo": "^15.2"
+    "wpackagist-plugin/wordpress-seo": "^16.7"
   },
   "autoload": {
     "psr-4": {
