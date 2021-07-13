@@ -1,5 +1,5 @@
 {
-  "name": "pollen-solutions/wp-divi-theme",
+  "name": "pollen-solutions/wp-theme-divi",
   "description": "Theme enfant Divi",
   "type": "wordpress-theme",
   "keywords": [
@@ -9,7 +9,7 @@
     "Divi",
     "child theme"
   ],
-  "homepage": "https://presstify.com/pollen-solutions/wp-divi-themechild/",
+  "homepage": "https://www.presstify.com/pollen-solutions/wp-theme-divi/",
   "time": "2021-07-13",
   "license": "proprietary",
   "authors": [
