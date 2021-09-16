@@ -9,9 +9,8 @@
     "Divi",
     "child theme"
   ],
-  "homepage": "https://www.presstify.com/pollen-solutions/wp-theme-divi/",
-  "time": "2021-07-13",
-  "license": "proprietary",
+  "homepage": "https://github.com/milkcreation/pollen-wp-theme-divi.git",
+  "time": "2021-09-16",
   "authors": [
     {
       "name": "Jordy Manner",
@@ -19,10 +18,6 @@
     }
   ],
   "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.presstify.com/pollen-solutions/"
-    },
     {
       "type": "composer",
       "url": "https://wpackagist.org"
